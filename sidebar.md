@@ -5,9 +5,10 @@
 * 架构
   * [大型网站架构实战](架构相关/大型网站架构实战)
 * java
-  * [stream](java/stream)
+  * [函数式编程](java/java函数式编程)
 * 工具
   * [docker-compose文件](工具/常用的docker-compose文件)
   * [常用的网站](工具/常用的网站)
   * [idea快捷键](工具/idea快捷键)
   * [dockerfile](工具/dockerfile)
+* 历史
